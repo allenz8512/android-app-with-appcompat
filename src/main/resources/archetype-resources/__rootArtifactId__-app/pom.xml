@@ -11,10 +11,10 @@
 	</parent>
 
 	<properties>
-		<keystore.path></keystore.path>
-		<keystore.storepass></keystore.storepass>
-		<keystore.keypass></keystore.keypass>
-		<keystore.alias></keystore.alias>
+		<keystore.path>path</keystore.path>
+		<keystore.storepass>storepass</keystore.storepass>
+		<keystore.keypass>keypass</keystore.keypass>
+		<keystore.alias>alias</keystore.alias>
 	</properties>
 
 	<build>

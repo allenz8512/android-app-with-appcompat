@@ -4,7 +4,7 @@
 
   <groupId>me.allenz.archetype</groupId>
   <artifactId>android-app-with-appcompat</artifactId>
-  <version>1.0.3-RELEASE</version>
+  <version>1.1.0-RELEASE</version>
   <packaging>maven-archetype</packaging>
 
   <build>
